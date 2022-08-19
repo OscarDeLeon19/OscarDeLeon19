@@ -8,6 +8,7 @@
   - Angular
 
 ## Github
+-Estadisticas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarDeLeon19&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
